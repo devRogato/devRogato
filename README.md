@@ -8,6 +8,9 @@
     <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
      <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 
+ <h4>Studying in this moment:</h4>
+ ![Android Studio]<https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=C8A2C8&labelColor=0D1117>&nbsp;
+      
   </div>
   
 ##
