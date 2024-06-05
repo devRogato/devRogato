@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dracula&section=header"/>
- 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dark&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Rogato;I'm+25+years+old;I+am+from+Campinas,+SP;I+study+Android+app+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dark&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Rogato;I'm+25+years+old;I+am+from+Campinas,+SP;I+study+Android+app+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=devRogato&show_icons=true&theme=dark)
 
