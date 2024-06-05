@@ -2,11 +2,7 @@
 <!-- GithubStats -->
   ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=devRogato&show_icons=true&theme=dark)
 
-<div>
 
-  <img align="left" height="250" alt="coding-time" src="code.gif">
-
-</div>
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
